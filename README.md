@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React and AI**
 
-- 📫 How to reach me **kumarbirbal5040@gmail.com**
+- 📫 How to reach me **dcebky@gmail.com**
 
 - ⚡ Fun fact **I'm cute funny**
 
