@@ -1,4 +1,4 @@
-![logo](https://github.com/Birbal5040/Birbal5040/blob/main/Blue%20Futuristic%20Technology%20Linkedln%20Banner.png)
+![logo](https://github.com/Birbal5040/Birbal5040/blob/main/github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Birbal kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://i.pinimg.com/originals/9c/18/fd/9c18fda9d8c4cf51e8bb2ac13e02dc93.gif" alt="coding image" width="400" align="right" style="margin: 5px;">
