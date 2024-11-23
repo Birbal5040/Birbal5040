@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@birbalk89335141" target="blank"><img src="https://img.shields.io/twitter/follow/@birbalk89335141?logo=twitter&style=for-the-badge" alt="@birbalk89335141" /></a> </p>
 
-- 🌱 I’m currently learning *AI**
+- 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **dcebky@gmail.com**
 
