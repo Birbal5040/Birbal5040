@@ -1,5 +1,5 @@
 ![logo](https://github.com/Birbal5040/Birbal5040/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Birbal kumar from India</h1>
+<h1 align="center">Hi 👋, I'm Anshika kumari from India</h1>
 <h3 align="center">A passionate about Machine Learning</h3>
 <img src="https://neuraspike.com/wp-content/uploads/2020/08/what-you-dont-know-about-machine-learning-could-hurt.gif" alt="ML image" width="450" align="right" style="margin: 5px;">
 
