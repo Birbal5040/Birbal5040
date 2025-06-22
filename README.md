@@ -1,13 +1,13 @@
 ![logo](https://github.com/Birbal5040/Birbal5040/blob/main/Banner.png)
-<h1 align="center">Hi 👋, I'm Anshika kumari from India</h1>
-<h3 align="center">A passionate about Machine Learning</h3>
+<h1 align="center">Hi 👋, I'm Birbal Kumar from India</h1>
+<h3 align="center">A passionate about AI, ML and CV</h3>
 <img src="https://neuraspike.com/wp-content/uploads/2020/08/what-you-dont-know-about-machine-learning-could-hurt.gif" alt="ML image" width="450" align="right" style="margin: 5px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birbal5040&label=Profile%20views&color=0e75b6&style=flat" alt="birbal5040" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@birbalk89335141" target="blank"><img src="https://img.shields.io/twitter/follow/@birbalk89335141?logo=twitter&style=for-the-badge" alt="@birbalk89335141" /></a> </p>
 
-- 🌱 I’m currently learning **ML, AI & Data Analyst**
+- 🌱 I’m currently learning **AI & CV**
 
 - 📫 How to reach me **dcebky@gmail.com**
 
